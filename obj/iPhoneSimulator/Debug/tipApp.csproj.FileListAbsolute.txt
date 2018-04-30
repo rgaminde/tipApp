@@ -1,0 +1,12 @@
+/Users/ronaldgaminde/Projects/tipApp/tipApp/bin/iPhoneSimulator/Debug/tipApp.exe
+/Users/ronaldgaminde/Projects/tipApp/tipApp/bin/iPhoneSimulator/Debug/tipApp.pdb
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/tipApp.csproj.CoreCompileInputs.cache
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/tipApp.exe
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/tipApp.pdb
+/Users/ronaldgaminde/Projects/tipApp/tipApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/Mickey_Mouse.png
